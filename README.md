@@ -8,7 +8,7 @@ Here we are getting information about temperature trends before opening the surf
 2. However min temp in June is 64 and min temp in Dec is 56, slightly more chilly in Dec., but since we are looking at surf shop during the day, it should be okay.
 3. Also max temps in June and Dec are more or less similar in the 80's
 
-| First Header  | Second Header |
+
 | ------------- | ------------- |
 |
 ![Temperatures in June](https://github.com/sag7221/surfs_up/blob/main/Images/Actual_June_Temps.png)
