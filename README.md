@@ -9,7 +9,7 @@ Here we are getting information about temperature trends before opening the surf
 3. Also max temps in June and Dec are more or less similar in the 80's
 
 
-| ------------- | ------------- |
+
 |
 ![Temperatures in June](https://github.com/sag7221/surfs_up/blob/main/Images/Actual_June_Temps.png)
   | ![Temperatures in Dec](https://github.com/sag7221/surfs_up/blob/main/Images/June_Temps.png)  |
