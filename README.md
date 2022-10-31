@@ -11,7 +11,7 @@ Here we are getting information about temperature trends before opening the surf
 | First Header  | Second Header |
 | ------------- | ------------- |
 |
-![Temperatures in June](https://github.com/sag7221/surfs_up/blob/main/Images/Dec_Temps.png)
+![Temperatures in June](https://github.com/sag7221/surfs_up/blob/main/Images/Actual_June_Temps.png)
   | ![Temperatures in Dec](https://github.com/sag7221/surfs_up/blob/main/Images/June_Temps.png)  |
 
 ### Summary
