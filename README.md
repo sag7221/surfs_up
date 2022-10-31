@@ -8,8 +8,6 @@ Here we are getting information about temperature trends before opening the surf
 2. However min temp in June is 64 and min temp in Dec is 56, slightly more chilly in Dec., but since we are looking at surf shop during the day, it should be okay.
 3. Also max temps in June and Dec are more or less similar in the 80's
 
-
-
 |
 ![Temperatures in June](https://github.com/sag7221/surfs_up/blob/main/Images/Actual_June_Temps.png)
   | ![Temperatures in Dec](https://github.com/sag7221/surfs_up/blob/main/Images/June_Temps.png)  |
@@ -21,4 +19,7 @@ Overall as we can see the difference in tempes in June and December is not much.
 Though temperatures do not vary much between June and December, precipitation is higher in Dec versus June, leading to the probability of more rain in December.
 This could affect the surf and ice cream shop business and needs to be considered.
 
+|
+![Precipitation in June](https://github.com/sag7221/surfs_up/blob/main/Images/June_prcp.png)
+  | ![Precipitation in Dec](https://github.com/sag7221/surfs_up/blob/main/Images/Dec_prcp.png)  |
 
