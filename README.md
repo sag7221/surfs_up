@@ -10,7 +10,7 @@ Here we are getting information about temperature trends before opening the surf
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-|  <br/>
+|
 ![Temperatures in June]([https://github.com/sag7221/surfs_up/blob/main/Images/Dec_Temps.png])
   | [Temperatures in Dec]([https://github.com/sag7221/surfs_up/blob/main/Images/June_Temps.png])  |
 
